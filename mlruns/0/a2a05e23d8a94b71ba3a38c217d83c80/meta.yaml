@@ -1,0 +1,15 @@
+artifact_uri: file:///H:/mlflow/mlruns/0/a2a05e23d8a94b71ba3a38c217d83c80/artifacts
+end_time: 1710768447733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2a05e23d8a94b71ba3a38c217d83c80
+run_name: adorable-elk-101
+run_uuid: a2a05e23d8a94b71ba3a38c217d83c80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710768440192
+status: 3
+tags: []
+user_id: Fariz

@@ -1,0 +1,15 @@
+artifact_uri: file:///H:/mlflow/mlruns/0/4b25382f62f54fa5929cf428f8ff9c75/artifacts
+end_time: 1710768490704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b25382f62f54fa5929cf428f8ff9c75
+run_name: delicate-stoat-828
+run_uuid: 4b25382f62f54fa5929cf428f8ff9c75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710768481069
+status: 3
+tags: []
+user_id: Fariz

@@ -1,0 +1,15 @@
+artifact_uri: file:///H:/mlflow/mlruns/0/61a2fdaa39544e2d8a5b70e13274f32a/artifacts
+end_time: 1710768524807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61a2fdaa39544e2d8a5b70e13274f32a
+run_name: omniscient-hen-762
+run_uuid: 61a2fdaa39544e2d8a5b70e13274f32a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710768516522
+status: 3
+tags: []
+user_id: Fariz

@@ -1,0 +1,15 @@
+artifact_uri: file:///H:/mlflow/mlruns/0/aa586cdb66e04bfdba763e6a5f9046ee/artifacts
+end_time: 1710731093654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa586cdb66e04bfdba763e6a5f9046ee
+run_name: gregarious-bird-198
+run_uuid: aa586cdb66e04bfdba763e6a5f9046ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710731093413
+status: 3
+tags: []
+user_id: Fariz

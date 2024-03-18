@@ -1,0 +1,15 @@
+artifact_uri: file:///H:/mlflow/mlruns/0/7635241d0c824b7c82fec96a497f0d55/artifacts
+end_time: 1710730937574
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7635241d0c824b7c82fec96a497f0d55
+run_name: chill-zebra-949
+run_uuid: 7635241d0c824b7c82fec96a497f0d55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710730937307
+status: 4
+tags: []
+user_id: Fariz

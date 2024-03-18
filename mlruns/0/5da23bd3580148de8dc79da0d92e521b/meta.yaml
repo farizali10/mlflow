@@ -1,0 +1,15 @@
+artifact_uri: file:///H:/mlflow/mlruns/0/5da23bd3580148de8dc79da0d92e521b/artifacts
+end_time: 1710768314194
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5da23bd3580148de8dc79da0d92e521b
+run_name: angry-bug-886
+run_uuid: 5da23bd3580148de8dc79da0d92e521b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710768305141
+status: 3
+tags: []
+user_id: Fariz

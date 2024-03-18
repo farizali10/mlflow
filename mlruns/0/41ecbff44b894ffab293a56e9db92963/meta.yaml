@@ -1,0 +1,15 @@
+artifact_uri: file:///H:/mlflow/mlruns/0/41ecbff44b894ffab293a56e9db92963/artifacts
+end_time: 1710768541076
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41ecbff44b894ffab293a56e9db92963
+run_name: zealous-ram-150
+run_uuid: 41ecbff44b894ffab293a56e9db92963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710768533967
+status: 3
+tags: []
+user_id: Fariz

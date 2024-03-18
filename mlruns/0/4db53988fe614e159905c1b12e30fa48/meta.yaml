@@ -1,0 +1,15 @@
+artifact_uri: file:///H:/mlflow/mlruns/0/4db53988fe614e159905c1b12e30fa48/artifacts
+end_time: 1710731437782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4db53988fe614e159905c1b12e30fa48
+run_name: rogue-conch-607
+run_uuid: 4db53988fe614e159905c1b12e30fa48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710731436318
+status: 3
+tags: []
+user_id: Fariz
